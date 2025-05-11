@@ -1,0 +1,2 @@
+# AnalizeIt
+diploma project
